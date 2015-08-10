@@ -1,0 +1,4 @@
+source https://nuget.org/api/v2
+
+nuget NServiceBus 5.2.4 framework: >= net452
+
